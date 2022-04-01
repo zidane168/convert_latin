@@ -1,0 +1,6 @@
+{
+    "name": "learntechtips/convert_latin",
+    "description": "This library support all Vietnamese text to English",
+    "type": "library",
+    "require": {}
+}
