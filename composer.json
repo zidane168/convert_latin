@@ -2,11 +2,17 @@
     "name": "learntechtips/convert_latin",
     "description": "This library support all Vietnamese text to English",
     "type": "library",
+    "authors": [
+        {
+            "name": "vilh",
+            "website": "https://learn-tech-tips.blogspot.com"
+        }
+    ],
     "require" : {
         "php" : ">=7.4"
     },
     "license": "MIT",
-
+    "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
             "learntechtips\\": "src/"
