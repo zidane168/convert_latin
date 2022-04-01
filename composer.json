@@ -2,10 +2,11 @@
     "name": "learntechtips/convert_latin",
     "description": "This library support all Vietnamese text to English",
     "type": "library",
+    "website": "https://learn-tech-tips.blogspot.com",
     "authors": [
         {
             "name": "vilh",
-            "website": "https://learn-tech-tips.blogspot.com"
+            "email": ""
         }
     ],
     "require" : {
